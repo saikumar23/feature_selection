@@ -2,7 +2,7 @@
 
 ## List of files:
 - Algorithm_1.py -> selects important features using SVD, and prints the performance results for comparison
-- Algorithm_2.py -> selects important features using SVD and k-means and prints the perfromance results for comparison
+- Algorithm_2.py -> selects important features using SVD and k-means and prints the performance results for comparison
 - pls_model.py -> PLSR model for validation
 - classification_model.py -> RFR and SVC models for validation
 
