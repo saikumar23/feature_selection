@@ -7,7 +7,7 @@
 - classification_model.py -> RFR and SVC models for validation
 
 ## Algorithm 1:
-- Algorithm 1 uses SVD(Singular value decomposition) for quantifying feature information. Sliding window technique and is used to apply SVD on windows and singular value plots are drawn for selection of local maxima points.
+- Algorithm 1 uses SVD(Singular value decomposition) for quantifying feature information. Sliding window technique is used to apply SVD on windows and singular value plots are drawn for selection of local maxima points.
 ## Algorithm 2:
 - Algorithm 2 integrates SVD and k-means for selecting important features. It also uses intrinsic dimension equality criterion for choosing the number of features selected. Feature clustering is employed to ensure all the selected features are non-redundant because, in the selected feature subset, the features are taken from different clusters, so the similarity among them is substantially low.
 
